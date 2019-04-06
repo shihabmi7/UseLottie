@@ -22,6 +22,8 @@ public class MainActivity extends AppCompatActivity {
         setSupportActionBar(toolbar);
 
 
+        /** Shihab Uddin */
+        // TODO: 4/6/2019 For androidX you need to update lottie library at least 2.8.0 & Up
         animation_view = findViewById(R.id.animation_view);
         animation_view_jerking = findViewById(R.id.animation_view_jerking);
         animation_view_wheel = findViewById(R.id.animation_view_wheel);
